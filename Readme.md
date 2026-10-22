@@ -34,3 +34,6 @@ dotnet run
 ```text
 My first documented homework
 ```
+
+### Expected Result
+![Description](assets/result.png)
